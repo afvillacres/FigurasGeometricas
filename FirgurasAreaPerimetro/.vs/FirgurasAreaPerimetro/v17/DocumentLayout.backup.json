@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|c:\\users\\alexander\\desktop\\firgurasareaperimetro\\firgurasareaperimetro\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|solutionrelative:firgurasareaperimetro\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|c:\\users\\alexander\\desktop\\firgurasareaperimetro\\firgurasareaperimetro\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|solutionrelative:firgurasareaperimetro\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|c:\\users\\alexander\\desktop\\firgurasareaperimetro\\firgurasareaperimetro\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|solutionrelative:firgurasareaperimetro\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|c:\\users\\alexander\\desktop\\firgurasareaperimetro\\firgurasareaperimetro\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F9C47F-BCAE-40AA-97F6-B7A776382CCE}|FirgurasAreaPerimetro\\FirgurasAreaPerimetro.csproj|solutionrelative:firgurasareaperimetro\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\FrmRectangulo.cs",
+              "RelativeDocumentMoniker": "FirgurasAreaPerimetro\\FrmRectangulo.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\FrmRectangulo.cs",
+              "RelativeToolTip": "FirgurasAreaPerimetro\\FrmRectangulo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:06:37.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "FirgurasAreaPerimetro\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\Rectangulo.cs",
+              "RelativeToolTip": "FirgurasAreaPerimetro\\Rectangulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:02:00.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmRectangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\FrmRectangulo.cs",
+              "RelativeDocumentMoniker": "FirgurasAreaPerimetro\\FrmRectangulo.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\FrmRectangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FirgurasAreaPerimetro\\FrmRectangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:20:07.691Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FirgurasAreaPerimetro\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\FirgurasAreaPerimetro\\FirgurasAreaPerimetro\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FirgurasAreaPerimetro\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:20:02.03Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
